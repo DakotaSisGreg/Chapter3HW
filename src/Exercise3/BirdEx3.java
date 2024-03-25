@@ -1,10 +1,10 @@
-package Exercise1;
+package Exercise3;
 
-public class Bird implements Movement{
+public class BirdEx3 implements Movement {
 
     private String type;
 
-    public Bird(String type) {
+    public BirdEx3(String type) {
         this.type = type;
     }
 

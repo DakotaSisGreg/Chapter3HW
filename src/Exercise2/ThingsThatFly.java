@@ -1,4 +1,8 @@
-package Exercise1;
+package Exercise2;
+
+import Exercise2.Airplane;
+import Exercise2.Bird;
+import Exercise2.Flight;
 
 import java.util.ArrayList;
 import java.util.List;

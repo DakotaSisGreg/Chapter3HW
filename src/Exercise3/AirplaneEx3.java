@@ -1,10 +1,10 @@
-package Exercise1;
+package Exercise3;
 
-public class Airplane implements Movement{
+public class AirplaneEx3 implements Movement {
     private String model;
     private int year;
 
-    public Airplane(String model, int year) {
+    public AirplaneEx3(String model, int year) {
         this.model = model;
         this.year = year;
     }
@@ -47,7 +47,7 @@ public class Airplane implements Movement{
         //toString
         @Override
         public String toString() {
-            return "Airplane[" + "model='" + model + '\'' + ", year=" + year + ']';
+            return "Airplane[" + "model=" + model + '\'' + ", year=" + year + ']';
         }
 
 
