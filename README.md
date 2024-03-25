@@ -1,6 +1,7 @@
 Exercise 1 UML link: https://ggcedu-my.sharepoint.com/:u:/g/personal/dsisongregory_ggc_edu/EfByADW4ZoZHqdRcC7EKc_wB1Jmf1uEVut_mjSxZkQSVZw?e=hKeOed
 
-![image](https://github.com/DakotaSisGreg/Chapter3HW/assets/156225388/5eb364d1-a711-4cc3-87c7-96d6d19324e8)
+![image](https://github.com/DakotaSisGreg/Chapter3HW/assets/156225388/a860973e-e4b9-4bd9-b212-acd1bb0b813e)
+
 
 The farm application and its associated packages, as discussed, are designed to model various farm animals and their behaviors. 
 FarmAnimal Superclass: Represents the generic concept of a farm animal. It includes common attributes such as name, gender, weight, and age that are shared across different types of farm animals. This class provides a foundational structure from which specific animal classes can inherit; essentially this class will define what a "Farm animal" is.
@@ -12,7 +13,8 @@ MyFarm : The MyFarm application aims to model and simulate a variety of farm ani
 
 Exercise 2 UML link: https://ggcedu-my.sharepoint.com/:u:/g/personal/dsisongregory_ggc_edu/EWxraK43ECRNgnDSX2DYd58BPuMSSRvarL-2zvXRQZiWlQ?e=6tUfcW
 
-![image](https://github.com/DakotaSisGreg/Chapter3HW/assets/156225388/1d1cf66c-8fa5-4bb8-b420-6e3bbfb77e89)
+![image](https://github.com/DakotaSisGreg/Chapter3HW/assets/156225388/4843060d-3099-43be-882b-6485375ca226)
+
 
 Flight Interface: Represents the ability to fly but does not specify how the action is performed, leaving the implementation details to the concrete classes.
 
@@ -23,7 +25,8 @@ Bird Class: implements the Flight interface, representing a bird with a "type" a
 
 Exercise 3 UML link: https://ggcedu-my.sharepoint.com/:u:/g/personal/dsisongregory_ggc_edu/EUP9Y4r_bLNHr2nm_VnEmE8B0lm_mCa0yYxuTuC6oN3q-w?e=30mfur
 
-![image](https://github.com/DakotaSisGreg/Chapter3HW/assets/156225388/77df4b11-0418-4aa5-87bf-512f268c7b15)
+![image](https://github.com/DakotaSisGreg/Chapter3HW/assets/156225388/f465c833-ee17-4b5c-baf2-cc54a17720e9)
+
 
 Flight Interface: Remains as defined in Exercise 2, with the fly() method for flying behavior.
 
